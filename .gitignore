@@ -4,6 +4,8 @@ GenDataMP*
 mat*.txt
 vec*.txt
 
+transformed_image.ppm
+
 ## Emacs.gitignore
 *~
 \#*\#

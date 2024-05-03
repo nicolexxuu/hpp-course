@@ -1,3 +1,16 @@
+Progress
+=====
+| Code | Assignment |
+|----|----|
+| [mp0](src/mp0.cu) | Device Query |
+| [mp1](src/mp1.cu) | Vector Addition |
+| [mp2](src/mp2.cu) | Basic Matrix Multiplication |
+| [mp3](src/mp3.cu) | Tiled Matrix Multiplication |
+| [mp6](src/mp6.cu) | Image Convolution |
+<!-- | mp4 | Reduction | 
+| mp5 | Scan | -->
+
+
 About
 =====
 ***

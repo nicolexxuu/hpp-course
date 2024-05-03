@@ -12,7 +12,7 @@ int main(int argc, char ** argv) {
     cudaGetDeviceCount(&deviceCount);
 
     wbTime_start(GPU, "Getting GPU Data."); //@@ start a timer
-
+    
     for (int dev = 0; dev < deviceCount; dev++) {
         cudaDeviceProp deviceProp;
 
